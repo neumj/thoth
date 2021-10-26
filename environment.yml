@@ -17,4 +17,6 @@ dependencies:
   - gensim
   - pyemd
   - xgboost
-  - graphviz
+  - python-graphviz
+  - pydot
+
